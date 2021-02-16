@@ -38,11 +38,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1335](https://github.com/open-wa/wa-automate-nodejs/issues/1335) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. ❗️ Closed issue [#868](https://github.com/fent/node-ytdl-core/issues/868) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
-3. 🗣 Commented on [#868](https://github.com/fent/node-ytdl-core/issues/868) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
-4. 🗣 Commented on [#1271](https://github.com/open-wa/wa-automate-nodejs/issues/1271) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-5. 🗣 Commented on [#868](https://github.com/fent/node-ytdl-core/issues/868) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+1. ❗️ Opened issue [#881](https://github.com/fent/node-ytdl-core/issues/881) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+2. ❗️ Opened issue [#1335](https://github.com/open-wa/wa-automate-nodejs/issues/1335) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. ❗️ Closed issue [#868](https://github.com/fent/node-ytdl-core/issues/868) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+4. 🗣 Commented on [#868](https://github.com/fent/node-ytdl-core/issues/868) in [fent/node-ytdl-core](https://github.com/fent/node-ytdl-core)
+5. 🗣 Commented on [#1271](https://github.com/open-wa/wa-automate-nodejs/issues/1271) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
 <!--END_SECTION:activity-->
 
 </details>
