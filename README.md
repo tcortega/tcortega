@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/openbullet/OpenBullet2/pull/30) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-2. ❗️ Closed issue [#1](https://github.com/xesam/aes-PKCS5Padding/issues/1) in [xesam/aes-PKCS5Padding](https://github.com/xesam/aes-PKCS5Padding)
-3. 💪 Opened PR [#20](https://github.com/openbullet/OpenBullet2/pull/20) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-4. ❗️ Opened issue [#1](https://github.com/xesam/aes-PKCS5Padding/issues/1) in [xesam/aes-PKCS5Padding](https://github.com/xesam/aes-PKCS5Padding)
-5. 🗣 Commented on [#1370](https://github.com/open-wa/wa-automate-nodejs/issues/1370) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+1. 🗣 Commented on [#54](https://github.com/openbullet/OpenBullet2/issues/54) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+2. 💪 Opened PR [#30](https://github.com/openbullet/OpenBullet2/pull/30) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+3. ❗️ Closed issue [#1](https://github.com/xesam/aes-PKCS5Padding/issues/1) in [xesam/aes-PKCS5Padding](https://github.com/xesam/aes-PKCS5Padding)
+4. 💪 Opened PR [#20](https://github.com/openbullet/OpenBullet2/pull/20) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+5. ❗️ Opened issue [#1](https://github.com/xesam/aes-PKCS5Padding/issues/1) in [xesam/aes-PKCS5Padding](https://github.com/xesam/aes-PKCS5Padding)
 <!--END_SECTION:activity-->
 
 </details>
