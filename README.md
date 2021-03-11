@@ -40,10 +40,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#62](https://github.com/openbullet/OpenBullet2/issues/62) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-2. 🗣 Commented on [#57](https://github.com/openbullet/OpenBullet2/issues/57) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-3. 🗣 Commented on [#54](https://github.com/openbullet/OpenBullet2/issues/54) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+2. 🗣 Commented on [#62](https://github.com/openbullet/OpenBullet2/issues/62) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+3. 🗣 Commented on [#57](https://github.com/openbullet/OpenBullet2/issues/57) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 4. 🗣 Commented on [#54](https://github.com/openbullet/OpenBullet2/issues/54) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-5. 💪 Opened PR [#30](https://github.com/openbullet/OpenBullet2/pull/30) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+5. 🗣 Commented on [#54](https://github.com/openbullet/OpenBullet2/issues/54) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 <!--END_SECTION:activity-->
 
 </details>
