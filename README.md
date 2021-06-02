@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#239](https://github.com/openbullet/OpenBullet2/issues/239) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-2. 🗣 Commented on [#214](https://github.com/openbullet/OpenBullet2/issues/214) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-3. ❗️ Opened issue [#5041](https://github.com/Unitech/pm2/issues/5041) in [Unitech/pm2](https://github.com/Unitech/pm2)
-4. 💪 Opened PR [#188](https://github.com/openbullet/OpenBullet2/pull/188) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-5. 🗣 Commented on [#186](https://github.com/openbullet/OpenBullet2/issues/186) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+1. 🎉 Merged PR [#1](https://github.com/tcortega/levi-ts/pull/1) in [tcortega/levi-ts](https://github.com/tcortega/levi-ts)
+2. 🎉 Merged PR [#1](https://github.com/tcortega/nps-api/pull/1) in [tcortega/nps-api](https://github.com/tcortega/nps-api)
+3. 🎉 Merged PR [#3](https://github.com/tcortega/nps-api/pull/3) in [tcortega/nps-api](https://github.com/tcortega/nps-api)
+4. 🎉 Merged PR [#2](https://github.com/tcortega/nps-api/pull/2) in [tcortega/nps-api](https://github.com/tcortega/nps-api)
+5. 🗣 Commented on [#239](https://github.com/openbullet/OpenBullet2/issues/239) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 <!--END_SECTION:activity-->
 
 </details>
