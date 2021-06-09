@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning NodeJS and C# 🤣
 - 👯 I’m looking to collaborate with Open Source projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love drawing, listening musics and coding!
 
 ### Connect with me:
