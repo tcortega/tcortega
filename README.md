@@ -39,11 +39,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/tcortega/twitter-scraper/pull/1) in [tcortega/twitter-scraper](https://github.com/tcortega/twitter-scraper)
-2. 🗣 Commented on [#1](https://github.com/tcortega/twitter-scraper/issues/1) in [tcortega/twitter-scraper](https://github.com/tcortega/twitter-scraper)
-3. 🎉 Merged PR [#1](https://github.com/tcortega/levi-ts/pull/1) in [tcortega/levi-ts](https://github.com/tcortega/levi-ts)
-4. 🎉 Merged PR [#1](https://github.com/tcortega/nps-api/pull/1) in [tcortega/nps-api](https://github.com/tcortega/nps-api)
-5. 🎉 Merged PR [#3](https://github.com/tcortega/nps-api/pull/3) in [tcortega/nps-api](https://github.com/tcortega/nps-api)
+1. 💪 Opened PR [#253](https://github.com/andreroggeri/pynubank/pull/253) in [andreroggeri/pynubank](https://github.com/andreroggeri/pynubank)
+2. 🎉 Merged PR [#1](https://github.com/tcortega/twitter-scraper/pull/1) in [tcortega/twitter-scraper](https://github.com/tcortega/twitter-scraper)
+3. 🗣 Commented on [#1](https://github.com/tcortega/twitter-scraper/issues/1) in [tcortega/twitter-scraper](https://github.com/tcortega/twitter-scraper)
+4. 🎉 Merged PR [#1](https://github.com/tcortega/levi-ts/pull/1) in [tcortega/levi-ts](https://github.com/tcortega/levi-ts)
+5. 🎉 Merged PR [#1](https://github.com/tcortega/nps-api/pull/1) in [tcortega/nps-api](https://github.com/tcortega/nps-api)
 <!--END_SECTION:activity-->
 
 </details>
