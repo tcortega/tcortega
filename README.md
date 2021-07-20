@@ -2,14 +2,12 @@
 
 ## I'm a Computer Scientist!
 
-- 🌱 I’m currently focusing on .NET 🤣
+- 🌱 I’m currently focusing on .NET
 - 👯 I’m looking to collaborate with Open Source projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love drawing, listening musics and coding!
 
 ### Connect with me:
 
-[<img align="left" alt="tcortega | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="tcortega | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="tcortega | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -56,7 +54,5 @@
 
 </details>
 
-[twitter]: https://twitter.com/tcortega_
-[youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://www.instagram.com/tarcisioortega
 [linkedin]: https://www.linkedin.com/in/tarcisio-caetano-38b3961a2
