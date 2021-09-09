@@ -37,9 +37,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/Fedorus/TgBotFramework/issues/2) in [Fedorus/TgBotFramework](https://github.com/Fedorus/TgBotFramework)
-2. 💪 Opened PR [#253](https://github.com/andreroggeri/pynubank/pull/253) in [andreroggeri/pynubank](https://github.com/andreroggeri/pynubank)
-3. 🎉 Merged PR [#1](https://github.com/tcortega/twitter-scraper/pull/1) in [tcortega/twitter-scraper](https://github.com/tcortega/twitter-scraper)
+1. 🗣 Commented on [#47](https://github.com/Puyodead1/udemy-downloader/issues/47) in [Puyodead1/udemy-downloader](https://github.com/Puyodead1/udemy-downloader)
+2. ❗️ Opened issue [#2](https://github.com/Fedorus/TgBotFramework/issues/2) in [Fedorus/TgBotFramework](https://github.com/Fedorus/TgBotFramework)
+3. 💪 Opened PR [#253](https://github.com/andreroggeri/pynubank/pull/253) in [andreroggeri/pynubank](https://github.com/andreroggeri/pynubank)
 4. 🗣 Commented on [#1](https://github.com/tcortega/twitter-scraper/issues/1) in [tcortega/twitter-scraper](https://github.com/tcortega/twitter-scraper)
 5. 🎉 Merged PR [#1](https://github.com/tcortega/levi-ts/pull/1) in [tcortega/levi-ts](https://github.com/tcortega/levi-ts)
 <!--END_SECTION:activity-->
