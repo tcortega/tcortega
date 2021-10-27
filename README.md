@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2241](https://github.com/open-wa/wa-automate-nodejs/issues/2241) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
-2. 🗣 Commented on [#484](https://github.com/openbullet/OpenBullet2/issues/484) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-3. 🗣 Commented on [#484](https://github.com/openbullet/OpenBullet2/issues/484) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-4. 🗣 Commented on [#484](https://github.com/openbullet/OpenBullet2/issues/484) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-5. 🗣 Commented on [#47](https://github.com/Puyodead1/udemy-downloader/issues/47) in [Puyodead1/udemy-downloader](https://github.com/Puyodead1/udemy-downloader)
+1. ❗️ Closed issue [#2241](https://github.com/open-wa/wa-automate-nodejs/issues/2241) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+2. 🗣 Commented on [#2241](https://github.com/open-wa/wa-automate-nodejs/issues/2241) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#2241](https://github.com/open-wa/wa-automate-nodejs/issues/2241) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+4. ❗️ Opened issue [#2241](https://github.com/open-wa/wa-automate-nodejs/issues/2241) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+5. 🗣 Commented on [#484](https://github.com/openbullet/OpenBullet2/issues/484) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 <!--END_SECTION:activity-->
 
 </details>
