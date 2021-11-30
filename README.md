@@ -39,9 +39,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
 2. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
-3. ❗️ Opened issue [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
-4. 💪 Opened PR [#17](https://github.com/liamcottle/valorant.js/pull/17) in [liamcottle/valorant.js](https://github.com/liamcottle/valorant.js)
-5. ❗️ Closed issue [#2241](https://github.com/open-wa/wa-automate-nodejs/issues/2241) in [open-wa/wa-automate-nodejs](https://github.com/open-wa/wa-automate-nodejs)
+3. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
+4. ❗️ Opened issue [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
+5. 💪 Opened PR [#17](https://github.com/liamcottle/valorant.js/pull/17) in [liamcottle/valorant.js](https://github.com/liamcottle/valorant.js)
 <!--END_SECTION:activity-->
 
 </details>
