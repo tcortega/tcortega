@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
+1. 🗣 Commented on [#572](https://github.com/openbullet/OpenBullet2/issues/572) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 2. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
 3. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
-4. ❗️ Opened issue [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
-5. 💪 Opened PR [#17](https://github.com/liamcottle/valorant.js/pull/17) in [liamcottle/valorant.js](https://github.com/liamcottle/valorant.js)
+4. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
+5. ❗️ Opened issue [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
 <!--END_SECTION:activity-->
 
 </details>
