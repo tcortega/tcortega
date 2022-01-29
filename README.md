@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#613](https://github.com/openbullet/OpenBullet2/pull/613) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-2. 💪 Opened PR [#612](https://github.com/openbullet/OpenBullet2/pull/612) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-3. 🗣 Commented on [#572](https://github.com/openbullet/OpenBullet2/issues/572) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-4. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
+1. 🗣 Commented on [#608](https://github.com/openbullet/OpenBullet2/issues/608) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+2. 💪 Opened PR [#613](https://github.com/openbullet/OpenBullet2/pull/613) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+3. 💪 Opened PR [#612](https://github.com/openbullet/OpenBullet2/pull/612) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+4. 🗣 Commented on [#572](https://github.com/openbullet/OpenBullet2/issues/572) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 5. 🗣 Commented on [#144](https://github.com/frinyvonnick/node-html-to-image/issues/144) in [frinyvonnick/node-html-to-image](https://github.com/frinyvonnick/node-html-to-image)
 <!--END_SECTION:activity-->
 
