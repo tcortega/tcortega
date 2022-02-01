@@ -37,11 +37,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#617](https://github.com/openbullet/OpenBullet2/pull/617) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-2. 💪 Opened PR [#616](https://github.com/openbullet/OpenBullet2/pull/616) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-3. 🗣 Commented on [#592](https://github.com/openbullet/OpenBullet2/issues/592) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+1. 💪 Opened PR [#620](https://github.com/openbullet/OpenBullet2/pull/620) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+2. 💪 Opened PR [#617](https://github.com/openbullet/OpenBullet2/pull/617) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+3. 💪 Opened PR [#616](https://github.com/openbullet/OpenBullet2/pull/616) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 4. 🗣 Commented on [#592](https://github.com/openbullet/OpenBullet2/issues/592) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
-5. 💪 Opened PR [#615](https://github.com/openbullet/OpenBullet2/pull/615) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
+5. 🗣 Commented on [#592](https://github.com/openbullet/OpenBullet2/issues/592) in [openbullet/OpenBullet2](https://github.com/openbullet/OpenBullet2)
 <!--END_SECTION:activity-->
 
 </details>
