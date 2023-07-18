@@ -4,6 +4,7 @@
  
 - Experienced software engineer focused in the development of **web apps**, **tools**, **libraries**, **scalable applications** and generalist development;
 - Worked with a lot of tech stacks as the lead developer;
+- Completely passionate about .NET and C#;
 
 <hr>
 
